@@ -1,0 +1,55 @@
+@font-face{
+    font-family: n;
+    src: url(/font/Another\ America.ttf);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 900px;
+    font-family: n;
+    margin-left : auto;
+    margin-right : auto;
+}
+.container{
+    height:  600px;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 9px solid #000000;
+    background: linear-gradient( rgba(255, 255, 255, 0.315),
+    rgba(255, 255, 255, 0.315)), url(/image/fondo.jpg);
+    background-attachment: fixed;
+}
+.caja{
+    
+    display: flex;
+}
+.dee{
+    
+    font-size: 400px;
+    margin-top: -30%;
+    margin-left: 10%;
+}
+.ylan{
+    
+    font-size: 200px;
+    margin-right: 20%;
+    margin-top: 20%;
+}
+.pr{
+    display: flex;
+    margin-left: 8%;
+}
+.p{
+    font-size: 400px;
+  
+}
+.ri{
+    height: 200px;
+    font-size: 200px;
+    margin-top: 50%;
+    margin-left: -70%;
+}
