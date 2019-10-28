@@ -20,7 +20,7 @@ body{
     align-items: center;
     border: 9px solid #000000;
     background: linear-gradient( rgba(255, 255, 255, 0.315),
-    rgba(255, 255, 255, 0.315)), url(/image/fondo.jpg);
+    rgba(255, 255, 255, 0.315)), url(/Tipografia/image/fondo.jpg);
     background-attachment: fixed;
 }
 .caja{
